@@ -10,3 +10,4 @@ Lab5 - Inheritance in Java.<br>
 Lab7 - Interfaces in Java.<br>
 Lab8 - Exceptions and Error handling in Java.<br>
 Lab9 - File operations and I/O in Java.<br>
+lab10 - Threads in Java.
