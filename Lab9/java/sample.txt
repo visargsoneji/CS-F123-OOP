@@ -1,0 +1,11 @@
+HotelSuite:
+Room:lr,6,7,8
+Room:wr,6,4,8
+Room:br,6,6,8
+HotelSuite:
+Room:lr,10,7,8
+Room:wr,10,4,8
+Room:br,10,6,8
+Room:br,10,6,8
+Room:br,8,6,8
+
